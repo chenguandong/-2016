@@ -1,8 +1,13 @@
+<h1><center>陈冠东简历2016</center></h1>
+
+[TOC]
+
 #个人信息
 ```
 姓名：        陈冠东
 电话：        18539902139
 邮箱：        chenguandong@163.com , todo10h3y@gmail.com
+工作经验：	 4年
 学历：        南阳理工（大专）
 求职意向：     iOS Android 软件工程师  比较倾向于大数据公司
 薪资要求：    10k－20k （五险一金）不考虑外包 ，大牛云集或者大数据公司薪资可以商量
@@ -272,8 +277,9 @@ AppStore    下载地址:https://itunes.apple.com/au/app/jmobi-cb/id84245738
 
 ```
 项目名称：TODO （已下架）
+
 源码地址：https://github.com/chenguandong/TODO
+
 项目描述：一款待办清单应用  可以看到每个清单距离现在的时间
 
 ```
-
